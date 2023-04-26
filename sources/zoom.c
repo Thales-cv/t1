@@ -68,6 +68,7 @@ int main(void)
 				}
 			}
 		}
+		
 		return matrix;
 	}
 
@@ -87,8 +88,15 @@ int main(void)
 
 				pixelTarget = image->pix[j * image->width + i];
 				struct subpixel_s subTeste = teste(pixelTarget);
-
-
+				int newY = j*3;
+				int newX = i*3;
+				
+				for(){
+				zoomImage->pix[100 * image->width + x] = matrix;
+				zoomImage->pix[100 * image->width + x].g = 0;
+				zoomImage->pix[100 * image->width + x].b = 0;
+				[a,b]
+				}
 			}
 		}
 	}
