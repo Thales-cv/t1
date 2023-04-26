@@ -32,6 +32,8 @@ int main(void)
 		}
 	*/
 
+	//teste comentario
+
 
 	lena = read_ppm("lena.ppm", image);
 	newHeight = (image->height) * 3;
