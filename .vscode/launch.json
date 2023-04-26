@@ -7,9 +7,9 @@
       "request": "launch",
       "args": [],
       "stopAtEntry": false,
-      "externalConsole": true,
-      "cwd": "c:/Users/thale/Desktop/Pucrs/SB/Trabalho1/t1/sources",
-      "program": "c:/Users/thale/Desktop/Pucrs/SB/Trabalho1/t1/sources/build/Debug/outDebug",
+      "externalConsole": false,
+      "cwd": "/Users/otaviocunha/Desktop/Programação/Trabalho zoom C/t1/sources",
+      "program": "/Users/otaviocunha/Desktop/Programação/Trabalho zoom C/t1/sources/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
